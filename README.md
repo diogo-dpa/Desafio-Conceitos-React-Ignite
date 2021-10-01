@@ -12,6 +12,10 @@ O projeto se trata de um **To Do List tradicional**, onde de tarefa foi necessá
 
 Utilizou-se **React** com **Typescript** para implementar as atividades e **Jest** para executar os testes, a fim de averiguar o correto funcionamento desejado.
 
+## 🧐 Melhoria implementada
+
+A adição de task à princípio é feita somente clincando no input, após preenchido. Por conta disso, foi implementada a melhoria de adicionar a task apertando **Enter**. Como motivação, tem-se principalmente a questão de usabilidade.
+
 ## 🎬 Créditos
 
-Agradecimentos e créditos à Rocketseat pelo fantástico conteúdo ministrado no curso e pelos projetos que agregaram bastante valor a cada aula.
+Agradecimentos e créditos à **Rocketseat** pelo fantástico conteúdo ministrado no curso e pelos projetos que agregaram bastante valor a cada aula.
